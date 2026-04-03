@@ -1,6 +1,9 @@
 {
   "name": "spinwise-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "20.x"
+  },
   "description": "AI Powered Content Rewriting Tool",
   "scripts": {
     "dev": "next dev",
